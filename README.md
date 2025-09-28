@@ -32,16 +32,11 @@ Examining characteristics such as movie vs. TV shows, release trends over years,
 🤖 Feature Prediction (Optional)
 Using the cleaned and analyzed data to build simple predictive models — for example, predicting content type based on features.
 
-📌 Requirements
+Tech Stack
 
 Python 3.x
-
 pandas
-
 numpy
-
 matplotlib
-
 seaborn
-
-(optional) scikit-learn for feature prediction
+scikit-learn for feature prediction (ML- Algorithms)
